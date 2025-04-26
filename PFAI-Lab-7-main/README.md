@@ -1,0 +1,2 @@
+# PFAI-Lab-7
+This is the repo containing the exercises prescribed in the contents of the manuel of Lab 7 of the Programming for A.I course taught by Lecturer Umar Aftab of NUTECH. The contents of the repo include 10 rust source files each corresponding to a task in the lab manuel aswell as a "hello.txt" file that is the output of the tenth programming exercise; finally, there is the lab report in the microsoft word ".docx" format.
